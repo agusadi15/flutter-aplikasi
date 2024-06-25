@@ -1,6 +1,6 @@
 # Aplikasi Pemesanan makanan MAKBYAR
 
-Aplikasi ini adalah aplikasi restoran berbasis Flutter yang memungkinkan pengguna untuk menjelajahi menu makanan, melihat rekomendasi makanan, dan mengakses profil pengguna. Berikut adalah fitur-fitur utama yang ditawarkan oleh aplikasi ini:
+Aplikasi ini adalah aplikasi MAKBYAR yang memungkinkan pengguna untuk menjelajahi menu makanan, melihat rekomendasi makanan, dan mengakses profil pengguna. Berikut adalah fitur-fitur utama yang ditawarkan oleh aplikasi ini:
 
 ## Fitur Utama
 
