@@ -7,6 +7,9 @@ Aplikasi ini adalah aplikasi MAKBYAR yang memungkinkan pengguna untuk menjelajah
 - 2.Ngakan Putu Herry Suputra (2101020062)
 - 3.Angga Karma Nugraha (2101020039)
 
+# Link Figma
+- https://www.figma.com/design/RKxDABmzPz1WAf1MnvIOg8/Hospital-Consultation--Booking-App-(Community)-(Copy)?node-id=0-1
+
 ## Fitur Utama
 
 ### Halaman Utama (HomePage)
