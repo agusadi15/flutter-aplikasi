@@ -2,6 +2,11 @@
 
 Aplikasi ini adalah aplikasi MAKBYAR yang memungkinkan pengguna untuk menjelajahi menu makanan, melihat rekomendasi makanan, dan mengakses profil pengguna. Berikut adalah fitur-fitur utama yang ditawarkan oleh aplikasi ini:
 
+# Nama Kelompok
+- 1.I Putu Agus Adi Saputra (2101020070)
+- 2.Ngakan Putu Herry Suputra (2101020062)
+- 3.Angga Karma Nugraha (2101020039)
+
 ## Fitur Utama
 
 ### Halaman Utama (HomePage)
