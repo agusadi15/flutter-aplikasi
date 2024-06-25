@@ -26,9 +26,39 @@ Aplikasi ini adalah aplikasi restoran berbasis Flutter yang memungkinkan penggun
 - Menampilkan gambar makanan, nama makanan, harga, rating, dan deskripsi singkat tentang makanan tersebut.
 - Menyediakan tombol "Beli Sekarang" untuk memudahkan pengguna dalam memesan makanan.
 
-## Teknologi yang Digunakan
-- **Flutter**: Framework utama untuk pengembangan aplikasi.
-- **Google Fonts**: Untuk meningkatkan estetika teks.
-- **Firestore**: Untuk pengelolaan data rekomendasi makanan secara real-time.
+
+# Fitur 
+1. **Form Login dan Registrasi**
+   - Menggunakan `TextFormField` untuk input email dan password.
+   - Menggunakan `ElevatedButton` untuk tombol login atau registrasi.
+   - Menggunakan `TextButton` untuk beralih antara mode login dan registrasi.
+
+2. **Firebase Authentication**
+   - Menggunakan `FirebaseAuth` untuk menangani autentikasi pengguna.
+
+#### Source Code
+
+1. **TextFormField untuk Email**
+   ```dart
+   TextFormField(
+     controller: _emailController,
+     decoration: InputDecoration(
+       labelText: 'Email',
+       border: OutlineInputBorder(
+         borderRadius: BorderRadius.circular(30.0),
+       ),
+       filled: true,
+       fillColor: Colors.grey[200],
+       contentPadding: EdgeInsets.symmetric(
+           vertical: 10.0, horizontal: 20.0),
+     ),
+     validator: (value) {
+       if (value == null || value.isEmpty) {
+         return 'Please enter your email';
+       }
+       return null;
+     },
+   ),
+
 
 
